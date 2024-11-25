@@ -1,8 +1,7 @@
 <script setup></script>
 
 <template>
-	<div id="app">周荣</div>
-	<TodoDeleteButton />
+	<div id="app">todo delete button</div>
 </template>
 
 <style scoped lang="less"></style>
